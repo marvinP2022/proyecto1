@@ -20,7 +20,10 @@ public class JavaApplication1 {
         System.out.println("HOLA MUNDO");
         System.out.println("HOLA MUNDO");
         System.out.println("HOLA MUNDO");
-        
+        System.out.println("HOLA MUNDO");
+        System.out.println("HOLA MUNDO");
+        System.out.println("HOLA MUNDO");
+        System.out.println("HOLA MUNDO");
         
     }
     
